@@ -1,0 +1,19 @@
+Definir requisitos sistema
+Definir las características finales de los usuarios y definir las características finales del software para terminar de guiar el aplicativo
+Documentos/Presentaciones
+Felipe Agudelo y Alan Parra – 29/04/2023
+ 
+Definir requerimientos del sistema
+Definir las ultimas funcionalidades del sistema para continuar con su desarrollo
+Documentos/Presentaciones
+Jacobo Giraldo y Alan Parra. – 29/04/2023
+
+Diseñar el sistema
+Diseñar la interfaz de usuario del sistema. Se busca encontrar la mejor configuración para el usuario, haciendo así que la comodidad y la facilidad sea una de las principales virtudes del aplicativo
+Aplicaciones de Mockup/GitHub/Librerías/videos/Documentos/Desarrollo Front end/Computador
+Jacobo Giraldo y Andres Echeverri - 15/05/2023  
+
+Codificar funcionalidades
+Tras obtener los requisitos y los requerimientos codificar los métodos para el propio funcionamiento del aplicativo ya delimitado por estos. 
+GitHub/C++/java/replit/visualStudio/Computador/Videos/Documentos
+Felipe Agudelo, Alan Parra, Jacobo Giraldo y Andres Echeverri – (29/04/2023) / (15/05/2023)
